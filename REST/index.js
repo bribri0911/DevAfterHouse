@@ -2,8 +2,8 @@ const fastify = require('fastify')()
 
 const rate_limits = {}; 
 
-const max_requests = 5; s
-const time_window = 60000; 
+const max_requests = 30; 
+const time_window = 60_000; 
 
 
 //the rate timing
