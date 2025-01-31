@@ -2,7 +2,7 @@ const { connectToDb } = require('../db');
 
 async function routes(fastify, options) {
 
-    fastify.post('/addUser', async (req, res) => {
+    fastify.post('/users', async (req, res) => {
         let { name, email } = req.body; 
 
 
@@ -52,13 +52,17 @@ async function routes(fastify, options) {
     });
 
 
-    fastify.post('/addTache', async (req, res) => {
+    fastify.post('/tasks', async (req, res) => {
 
         let { title, is_finish , user_id } = req.body; 
 
 
-        if (!title || is_finish === undefined || !user_id) {
-            return res.status(400).send({ error: "Title, is_finish, and user_id are required." });
+        if (!title  || !user_id) {
+            return res.status(400).send({ error: "Title and user_id are required." });
+        }
+
+        if(is_finish === undefined){
+            is_finish = false
         }
 
         if (typeof is_finish !== 'boolean') {
@@ -96,10 +100,66 @@ async function routes(fastify, options) {
 
         } catch (error) {
             console.error("Database Error:", error);
-            res.status(500).send({ error: 'Error while adding user to database' });
+            res.status(500).send({ error: 'Error while adding task to database' });
         }
     });
     
+
+    fastify.get('/users', async(req, res)=>{
+        try {
+            const connection = await connectToDb();
+            
+            const [rows] = await connection.execute('SELECT name FROM users');
+
+
+            connection.end();
+
+            res.send({
+                message: 'list of all users',
+                allUser: rows
+            });
+
+        } catch (error) {
+            console.error("Database Error:", error);
+            res.status(500).send({ error: 'Error with get all user' });
+        }
+    })
+
+
+    fastify.get('/users/:id/tasks', async (req, res) => {
+        const { id } = req.params;
+
+        if (!id) {
+            return res.status(400).send({ error: "User ID is required." });
+        }
+
+        try {
+            const connection = await connectToDb();
+
+            
+            const [rows] = await connection.execute(
+                'SELECT * FROM tache WHERE user_id = ?',
+                [id]
+            );
+
+            connection.end();
+
+            
+            if (rows.length === 0) {
+                return res.status(404).send({ message: "No tasks found for this user." });
+            }
+
+            res.send({
+                message: `Tasks for user with ID ${id}`,
+                tasks: rows
+            });
+
+        } catch (error) {
+            console.error("Database Error:", error);
+            res.status(500).send({ error: 'Error retrieving tasks from database' });
+        }
+    })
+
 }
 
 module.exports = routes;
