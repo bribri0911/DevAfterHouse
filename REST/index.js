@@ -6,6 +6,10 @@ const max_requests = 30;
 const time_window = 60_000; 
 
 
+fastify.register(require('@fastify/cors'), {
+    origin: "*", 
+});
+
 //the rate timing
 fastify.addHook('onRequest', (req, reply, done) => {
     const userId = req.headers['user-id'] || req.ip; 

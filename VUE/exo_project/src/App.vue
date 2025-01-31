@@ -1,26 +1,59 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+
+
+    <h2>Liste des différentes tâches :</h2>
+
+    <div class="list-Tache">
+      <div v-if="tasks.length > 0">
+        <TaskItem
+          v-for="task in tasks"
+          :key="task.id"
+          :titre="task.titre"
+          :est_terminee="task.est_terminee === 1"
+          :utilisateur_id="task.user_id"
+        />
+      </div>
+      <p v-else>Aucune tâche trouvée pour cet utilisateur.</p>
+    </div>
+
+
+    <div class="add-task">
+      <label>Titre de la tache à rajouter : </label>
+      <input placeholder="Votre titre">
+      <button>rajouter</button>
+    </div>
+
+  </div>
+
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import axios from "axios";
+import TaskItem from "./components/TaskItem.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    TaskItem,
+  },
+  data() {
+    return {
+      tasks: [],
+    };
+  },
+  mounted() {
+    axios.get("http://127.0.0.1:5000/api/users/2/tasks").then((response) => {
+      this.tasks = response.data.tasks;
+    });
+  },
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+.list-Tache{
+  height: 500px;
+  overflow-y: auto;
+  widows: 100%;
 }
 </style>
