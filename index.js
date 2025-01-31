@@ -1,7 +1,36 @@
 const fastify = require('fastify')()
 
-fastify.register(require('./routes/api'), {prefix:'/api'})
+const rate_limits = {}; 
 
+const max_requests = 5; s
+const time_window = 60000; 
+
+
+//the rate timing
+fastify.addHook('onRequest', (req, reply, done) => {
+    const userId = req.headers['user-id'] || req.ip; 
+
+    if (!rate_limits[userId]) {
+        rate_limits[userId] = [];
+    }
+
+    rate_limits[userId] = rate_limits[userId].filter(timestamp => Date.now() - timestamp < time_window);
+
+    if (rate_limits[userId].length >= max_requests) {
+        return reply.status(429).send({
+            error: 'Too Many Requests',
+            message: 'Rate limit exceeded. Please try again later.'
+        });
+    }
+
+    rate_limits[userId].push(Date.now());
+
+    done();
+});
+
+
+
+fastify.register(require('./routes/api'), { prefix: '/api' });
 
 fastify.listen({ port: 5000, host: '0.0.0.0' }, function (err, address) {
     if (err) {
@@ -10,5 +39,4 @@ fastify.listen({ port: 5000, host: '0.0.0.0' }, function (err, address) {
     } else {
         console.log(`Server is listening on ${address}`);
     }
-})
-
+});

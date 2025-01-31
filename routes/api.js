@@ -1,8 +1,12 @@
 const { connectToDb } = require('../db');
 
+
 async function routes(fastify, options) {
 
     fastify.post('/users', async (req, res) => {
+
+        
+
         let { name, email } = req.body; 
 
 
