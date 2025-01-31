@@ -1,7 +1,6 @@
 const fastify = require('fastify')()
 
-fastify.register(require('./routes/users'), {prefix:'/users'})
-
+fastify.register(require('./routes/api'), {prefix:'/api'})
 
 
 fastify.listen({ port: 5000, host: '0.0.0.0' }, function (err, address) {
