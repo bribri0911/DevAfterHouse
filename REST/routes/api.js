@@ -90,16 +90,24 @@ async function routes(fastify, options) {
             }
 
             
-            await connection.execute(
+            const [result] = await connection.execute(
                 'INSERT INTO tache (titre, est_terminee , user_id) VALUES (?, ?, ?)', 
                 [title, is_finish, user_id]
             );
+
+            const newTask = {
+                id: result.insertId, 
+                titre: title, 
+                est_terminee: is_finish, 
+                user_id: user_id
+            };
 
             connection.end();
 
             res.send({
                 message: 'Task add with success',
-                is_add: true
+                is_add: true,
+                task: newTask
             });
 
         } catch (error) {
@@ -142,7 +150,7 @@ async function routes(fastify, options) {
 
             
             const [rows] = await connection.execute(
-                'SELECT * FROM tache WHERE user_id = ?',
+                'SELECT * FROM tache WHERE user_id = ? ORDER BY id DESC',
                 [id]
             );
 

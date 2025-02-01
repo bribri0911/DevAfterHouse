@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-
-
     <h2>Liste des différentes tâches :</h2>
 
     <div class="list-Tache">
@@ -17,43 +15,54 @@
       <p v-else>Aucune tâche trouvée pour cet utilisateur.</p>
     </div>
 
-
-    <div class="add-task">
-      <label>Titre de la tache à rajouter : </label>
-      <input placeholder="Votre titre">
-      <button>rajouter</button>
+    <div class="form-add">
+      <addTaskVue @task-added="addTaskToList" />
     </div>
-
   </div>
-
 </template>
 
 <script>
 import axios from "axios";
 import TaskItem from "./components/TaskItem.vue";
+import addTaskVue from "./components/addTask.vue";
 
 export default {
   name: "App",
   components: {
     TaskItem,
+    addTaskVue,
   },
   data() {
     return {
-      tasks: [],
+      tasks: [], 
     };
   },
   mounted() {
-    axios.get("http://127.0.0.1:5000/api/users/2/tasks").then((response) => {
-      this.tasks = response.data.tasks;
-    });
+    this.fetchTasks();
+  },
+  methods: {
+    fetchTasks() {
+      axios.get("http://127.0.0.1:5000/api/users/2/tasks").then((response) => {
+        this.tasks = response.data.tasks;
+      });
+    },
+
+    addTaskToList(newTask) {
+      this.tasks.unshift(newTask);
+    },
   },
 };
 </script>
 
 <style>
-.list-Tache{
+.list-Tache {
   height: 500px;
   overflow-y: auto;
-  widows: 100%;
+  width: 100%;
+}
+
+.form-add{
+  margin: 50px auto;
+  width: 100%;
 }
 </style>
