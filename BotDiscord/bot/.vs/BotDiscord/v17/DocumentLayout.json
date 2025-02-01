@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2068041F-B53E-42EE-899C-A29831FF5E2E}|BotDiscord\\BotDiscord.csproj|C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\botdiscord\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068041F-B53E-42EE-899C-A29831FF5E2E}|BotDiscord\\BotDiscord.csproj|solutionrelative:botdiscord\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068041F-B53E-42EE-899C-A29831FF5E2E}|BotDiscord\\BotDiscord.csproj|C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\botdiscord\\allliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068041F-B53E-42EE-899C-A29831FF5E2E}|BotDiscord\\BotDiscord.csproj|solutionrelative:botdiscord\\allliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068041F-B53E-42EE-899C-A29831FF5E2E}|BotDiscord\\BotDiscord.csproj|c:\\users\\etu57688\\onedrive - haute ecole de namur-liege-luxembourg\\documents\\botdiscord\\botdiscord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068041F-B53E-42EE-899C-A29831FF5E2E}|BotDiscord\\BotDiscord.csproj|solutionrelative:botdiscord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068041F-B53E-42EE-899C-A29831FF5E2E}|BotDiscord\\BotDiscord.csproj|C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\botdiscord\\objectif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2068041F-B53E-42EE-899C-A29831FF5E2E}|BotDiscord\\BotDiscord.csproj|solutionrelative:botdiscord\\objectif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllListe.cs",
+              "DocumentMoniker": "C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\BotDiscord\\AllListe.cs",
+              "RelativeDocumentMoniker": "BotDiscord\\AllListe.cs",
+              "ToolTip": "C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\BotDiscord\\AllListe.cs",
+              "RelativeToolTip": "BotDiscord\\AllListe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:45:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Objectif.cs",
+              "DocumentMoniker": "C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\BotDiscord\\Objectif.cs",
+              "RelativeDocumentMoniker": "BotDiscord\\Objectif.cs",
+              "ToolTip": "C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\BotDiscord\\Objectif.cs",
+              "RelativeToolTip": "BotDiscord\\Objectif.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:44:30.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\BotDiscord\\Commands.cs",
+              "RelativeDocumentMoniker": "BotDiscord\\Commands.cs",
+              "ToolTip": "C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\BotDiscord\\Commands.cs",
+              "RelativeToolTip": "BotDiscord\\Commands.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAUwAEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:18:26.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\BotDiscord\\Program.cs",
+              "RelativeDocumentMoniker": "BotDiscord\\Program.cs",
+              "ToolTip": "C:\\Users\\etu57688\\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\\Documents\\BotDiscord\\BotDiscord\\Program.cs",
+              "RelativeToolTip": "BotDiscord\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:57:24.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

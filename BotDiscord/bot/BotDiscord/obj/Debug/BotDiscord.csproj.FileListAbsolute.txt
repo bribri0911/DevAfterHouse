@@ -1,0 +1,267 @@
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\BotDiscord.exe.config
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\BotDiscord.exe
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\BotDiscord.pdb
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Commands.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Core.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Rest.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Buffers.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Collections.Immutable.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Interactive.Async.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Linq.Async.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Memory.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Reactive.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.ValueTuple.dll
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Commands.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Core.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Rest.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Buffers.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Collections.Immutable.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Interactive.Async.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Linq.Async.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Memory.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Reactive.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\bin\Debug\System.ValueTuple.xml
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.AssemblyReference.cache
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.CoreCompileInputs.cache
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.Up2Date
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\obj\Debug\BotDiscord.exe
+C:\Users\etu57688\source\repos\BotDiscord\BotDiscord\obj\Debug\BotDiscord.pdb
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.AssemblyReference.cache
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.CoreCompileInputs.cache
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\obj\Debug\BotDiscord.exe
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\obj\Debug\BotDiscord.pdb
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\BotDiscord.exe.config
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\BotDiscord.exe.manifest
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\BotDiscord.application
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\BotDiscord.exe
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\BotDiscord.pdb
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Commands.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Core.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Rest.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\DiscordRPC.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Buffers.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Collections.Immutable.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Interactive.Async.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Linq.Async.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Memory.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Reactive.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.ValueTuple.dll
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Commands.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Core.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Rest.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\DiscordRPC.pdb
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\DiscordRPC.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Buffers.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Collections.Immutable.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Interactive.Async.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Linq.Async.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Memory.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Reactive.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\bin\Debug\System.ValueTuple.xml
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\obj\Debug\BotDiscord.exe.manifest
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\obj\Debug\BotDiscord.application
+C:\Users\etu57688\OneDrive - Haute Ecole de Namur-Liege-Luxembourg\Documents\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.Up2Date
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\BotDiscord.exe.config
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\BotDiscord.exe.manifest
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\BotDiscord.application
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\BotDiscord.exe
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\BotDiscord.pdb
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Commands.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Core.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Rest.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\DiscordRPC.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Buffers.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Collections.Immutable.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Interactive.Async.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Linq.Async.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Memory.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Reactive.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.ValueTuple.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Commands.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Core.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Rest.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\DiscordRPC.pdb
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\DiscordRPC.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Buffers.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Collections.Immutable.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Interactive.Async.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Linq.Async.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Memory.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Reactive.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\System.ValueTuple.xml
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.AssemblyReference.cache
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.SuggestedBindingRedirects.cache
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.CoreCompileInputs.cache
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\obj\Debug\BotDiscord.exe.manifest
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\obj\Debug\BotDiscord.application
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\obj\Debug\BotDiscord.csproj.CopyComplete
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\obj\Debug\BotDiscord.exe
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\obj\Debug\BotDiscord.pdb
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\WebDriver.dll
+C:\Users\brieu\Downloads\BotDiscord2\BotDiscord\BotDiscord\bin\Debug\WebDriver.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\obj\Debug\BotDiscord.csproj.AssemblyReference.cache
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\obj\Debug\BotDiscord.csproj.SuggestedBindingRedirects.cache
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\obj\Debug\BotDiscord.csproj.CoreCompileInputs.cache
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\obj\Debug\BotDiscord.exe
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\obj\Debug\BotDiscord.pdb
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\BotDiscord.exe.config
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\BotDiscord.exe.manifest
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\BotDiscord.application
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\BotDiscord.exe
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\BotDiscord.pdb
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Commands.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Core.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Rest.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\DiscordRPC.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Buffers.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Collections.Immutable.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Interactive.Async.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Linq.Async.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Memory.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Reactive.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.ValueTuple.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\WebDriver.dll
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Commands.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Core.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Rest.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\DiscordRPC.pdb
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\DiscordRPC.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Buffers.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Collections.Immutable.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Interactive.Async.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Linq.Async.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Memory.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Reactive.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\System.ValueTuple.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\bin\Debug\WebDriver.xml
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\obj\Debug\BotDiscord.exe.manifest
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\obj\Debug\BotDiscord.application
+C:\Users\brieu\OneDrive\Documents\__prog\Trankility\BotDiscord\obj\Debug\BotDiscord.csproj.CopyComplete
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\BotDiscord.exe.config
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\BotDiscord.exe.manifest
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\BotDiscord.application
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\BotDiscord.exe
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\BotDiscord.pdb
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Commands.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Core.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Rest.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\DiscordRPC.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Buffers.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Collections.Immutable.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Interactive.Async.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Linq.Async.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Memory.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Reactive.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.ValueTuple.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\WebDriver.dll
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Commands.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Core.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Rest.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\DiscordRPC.pdb
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\DiscordRPC.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Buffers.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Collections.Immutable.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Interactive.Async.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Linq.Async.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Memory.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Reactive.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\System.ValueTuple.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\bin\Debug\WebDriver.xml
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\obj\Debug\BotDiscord.csproj.AssemblyReference.cache
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\obj\Debug\BotDiscord.csproj.SuggestedBindingRedirects.cache
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\obj\Debug\BotDiscord.csproj.CoreCompileInputs.cache
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\obj\Debug\BotDiscord.exe.manifest
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\obj\Debug\BotDiscord.application
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\obj\Debug\BotDiscord.csproj.CopyComplete
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\obj\Debug\BotDiscord.exe
+C:\Users\brieu\OneDrive\Documents\__prog\AFTERHOUSE\DevAfterHouse\BotDiscord\bot\BotDiscord\obj\Debug\BotDiscord.pdb
