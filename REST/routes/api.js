@@ -150,7 +150,7 @@ async function routes(fastify, options) {
 
             
             const [rows] = await connection.execute(
-                'SELECT * FROM tache WHERE user_id = ? ORDER BY id DESC',
+                'SELECT * FROM tache WHERE user_id = ?',
                 [id]
             );
 
