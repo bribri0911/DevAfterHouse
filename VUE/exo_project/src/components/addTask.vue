@@ -29,13 +29,11 @@ export default {
       user_id: 2,
     })
     .then((response) => {
-      console.log("Réponse de l'API:", response); // Ajoute ceci pour voir ce qui est retourné par l'API
+      console.log("Réponse de l'API:", response); 
 
-      // Vérifier la structure de la réponse
       if (response.data && response.data.task) {
-        this.newTaskTitle = ""; // Réinitialiser le titre
+        this.newTaskTitle = ""; 
 
-        // Informer le parent de l'ajout de la tâche
         this.$emit("task-added", response.data.task);
       } else {
         console.error("Erreur : Tâche non renvoyée correctement");
